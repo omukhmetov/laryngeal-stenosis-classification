@@ -1,0 +1,11 @@
+pandas
+numpy
+scipy
+scikit-learn
+catboost
+statsmodels
+matplotlib
+openpyxl
+torch
+torchvision
+pillow

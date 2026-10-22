@@ -1,0 +1,19 @@
+# Patient data and images - never commit
+*.xlsx
+*.xls
+*.csv
+*.jpg
+*.jpeg
+*.png
+images/Healthy/
+images/Unhealthy/
+images/images_small/
+# Trained models
+*.pt
+*.pkl
+*.cbm
+catboost_info/
+# Python / OS
+__pycache__/
+*.pyc
+.DS_Store
