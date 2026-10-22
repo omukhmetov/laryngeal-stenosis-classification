@@ -1,0 +1,6 @@
+# classifier.py — healthy vs unhealthy image classifier
+torch
+torchvision
+pillow
+numpy
+scikit-learn
