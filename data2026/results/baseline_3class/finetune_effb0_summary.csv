@@ -1,0 +1,7 @@
+,frame,session,session_ci_low,session_ci_high
+bal_acc,0.437,0.422,0.322,0.51
+macro_f1,0.433,0.401,0.295,0.492
+qwk,0.239,0.226,0.025,0.389
+auc_macro,0.608,0.611,0.532,0.691
+auc_norm_vs_sten,0.641,0.695,0.575,0.795
+auc_mild_vs_severe,0.59,0.564,0.433,0.712
